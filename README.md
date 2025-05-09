@@ -1,7 +1,7 @@
 <h1 align="center">Robin Andersson</h1>
 
 <p align="center">
-  Fullstack JavaScriptstudent • 🌍 Sverige
+  Fullstack JavaScriptstudent • Sverige
 </p>
 
 ---
