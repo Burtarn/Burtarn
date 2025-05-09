@@ -1,13 +1,13 @@
-<h1 align="center">Hej, jag heter Robin Andersson 👋</h1>
+<h1 align="center">Robin Andersson</h1>
 
 <p align="center">
-  💻 Fullstack JavaScriptstudent • 🛠️ Agil utveckling • 🌍 Sverige
+  Fullstack JavaScriptstudent • 🌍 Sverige
 </p>
 
 ---
 
-### 💡 Om mig
-Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag arbetar gärna med allt från frontend till backend och tycker om att jobba agilt i team. Mina styrkor ligger inom:
+###  Om mig
+Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag arbetar gärna med allt från frontend till backend. Mina styrkor ligger inom:
 - 🖥️ HTML, CSS, JavaScript
 - ⚙️ Express.js, Node.js
 - 🗃️ PostgreSQL, MongoDB
@@ -16,7 +16,7 @@ Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag ar
 
 ---
 
-### 🧰 Verktyg & Teknologier
+### Verktyg & Teknologier
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
@@ -29,7 +29,7 @@ Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag ar
 
 ---
 
-### 📌 Projekt
+### Projekt
 
 | Projekt | Beskrivning |
 |--------|-------------|
@@ -40,11 +40,11 @@ Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag ar
 
 ---
 
-### 📫 Kontakt
+### Kontakt
 
 - 📧 E-post: robin.andersson0125@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/robin-andersson-050b83329](https://www.linkedin.com/in/robin-andersson-050b83329)
 
 ---
 
-<sub>🛠️ Uppdaterad senast: Maj 2025</sub>
+<sub>Uppdaterad senast: Maj 2025</sub>
