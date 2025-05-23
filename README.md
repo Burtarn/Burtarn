@@ -8,7 +8,7 @@
 
 ###  Om mig
 Jag är en driven fullstackutvecklare med fokus på moderna webbtekniker. Jag arbetar gärna med allt från frontend till backend. Mina styrkor ligger inom:
-- 🖥️ HTML, CSS, JavaScript
+- 🖥️ HTML, CSS, JavaScript, React
 - ⚙️ Express.js, Node.js
 - 🗃️ PostgreSQL, MongoDB
 - 🔄 REST API & RESTful design
